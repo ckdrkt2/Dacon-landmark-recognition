@@ -122,3 +122,13 @@ y_pred = model.predict(test_Dataset)
 - landmark recognition 결과
 
 ![image](https://user-images.githubusercontent.com/72551588/126068666-35ed1217-d52d-4cb7-8bec-6f398cbd7c3a.png)
+
+# Reference
+[1] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [Submitted on 28 
+May 2019 (v1), last revised 11 Sep 2020 (this version, v5)] Mingxing Tan, Quoc V. Le
+https://arxiv.org/pdf/1905.11946.pdf
+
+[2] The Marginal Value of Adaptive Gradient Methods in Machine Learning [Submitted on 23 
+May 2017 (v1), last revised 22 May 2018 (this version, v2)] Ashia C. Wilson, Rebecca Roelofs, 
+Mitchell Stern, Nathan Srebro, Benjamin Recht 
+https://arxiv.org/pdf/1705.08292.pdf
